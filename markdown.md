@@ -19,8 +19,10 @@ Josh Martin
 
 * Bboy 
 
----
+--
 
+.center[<img src="img/bboy.jpg" height="300px" />]
+---
 # What is React?
 
 --
@@ -36,8 +38,10 @@ ReactDOM.render(
 ```
 --
 
-* Virtual DOM
+* Virtual DOM (Document Object Model)
 
+--
+* Declarative
 --
 
 * Diff Tree and One Way of Dataflow
@@ -82,10 +86,22 @@ ReactDOM.render(
 ---
 
 # How  I use React and Firebase.
-
+<img src="http://i0.kym-cdn.com/photos/images/newsfeed/001/044/247/297.png" />
 ---
 
 # Where to learn more
+
+* [Getting Started with React and Firebase (Youtube)](https://www.youtube.com/watch?v=mwNATxfUsgI&list=PLl-K7zZEsYLmnJ_FpMOZgyg6XcIGBu2OX&index=15)
+
+* [Getting Started with React and Firebase, Part 2 (Youtube) ](https://youtu.be/p4XTMvagQ2Q)
+
+* [React Docs](https://reactjs.org/)
+
+* [Building Web Applications with ReactJS (Slides)](https://docs.google.com/presentation/d/1c0qUAQJ8d4LWoJOeK3qXxw4kwClDl7QfO6xTSm1l8EU/edit?usp=sharing)
+
+* [Firebase Docs](https://firebase.google.com/docs/?authuser=0)
+
+* Meetups
 
 ---
 
